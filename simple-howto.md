@@ -7,3 +7,13 @@ git checkout -b dev origon/dev
 
 git push origin dev
 
+
+#How to new a branch and push it to the remote repo
+
+git checkout -b new_branch_name
+
+do_sth
+
+git push origin new_branch_name
+
+
