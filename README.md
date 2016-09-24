@@ -3,6 +3,6 @@
 
 **Learning Notes** mainly record these kinds of things:
 
-* ***simple-howto*** some common cases examples usage
-* ***questionaires*** questions those not solved yes
-* ***ideas*** ideas I've got during studying
+* ***simple-howto***: common cases and examples 
+* ***questionaires***: questions to be solved
+* ***ideas***: ideas I've got during studying
