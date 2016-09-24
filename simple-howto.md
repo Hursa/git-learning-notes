@@ -28,3 +28,7 @@ git branch -a
 
 git push origin --delete <branch_name>
 
+#How to clone OpenWRT from our local GIT server?
+
+git clone server@192.168.1.95:/home/server/Ococci_Git/router/rtk_openwrt_sdk.git
+
