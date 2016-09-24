@@ -1,2 +1,8 @@
-# GIT Learning
-**GIT　Learning** is a project for me to learn and I will record the procedure of my stduy. 
+# Learning Notes
+
+
+**Learning Notes** mainly record these kinds of things:
+
+* ###simple-howto### some common cases examples usage
+* ###questionaires### questions those not solved yes
+* ###ideas### ideas I've got during studying
