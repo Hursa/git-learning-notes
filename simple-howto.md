@@ -3,7 +3,7 @@ git clone git@github.com:Hursa/test.git
 
 git checkout -b dev origon/dev
 
-#add some files and commit
+ddd some files and commit
 
 git push origin dev
 
@@ -16,4 +16,15 @@ do_sth
 
 git push origin new_branch_name
 
+#How to delete local and reomote branch?
+
+LOCAL:
+
+git branch -d <branch_name>
+
+REMOTE:
+
+git branch -a
+
+git push origin --delete <branch_name>
 
