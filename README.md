@@ -1,6 +1,11 @@
-# GIT Learning
-**GIT　Learning** is a project for me to learn and I will record the procedure of my stduy. 
+# Learning Notes
 
-THe notes contains two topics now:
-* GIT common study
-* GO language study
+**Learning Notes** mainly record these kinds of things:
+
+* ***simple-howto***: common cases and examples 
+* ***questionaires***: questions to be solved
+* ***ideas***: ideas I've got during studying
+
+**Topics**:
+* ***GIT***
+* ***GO lang***
