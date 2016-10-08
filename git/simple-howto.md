@@ -39,6 +39,10 @@
   - `git rm <filename>`
 
   - `git commit -m "comments"`
+  
+* ###How to check the difference between version?
+ - `git show HEAD~x`
+ - `get diff 234dcc sdfkk2 --stat`
 
 
 
